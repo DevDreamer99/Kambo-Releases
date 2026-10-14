@@ -27,8 +27,8 @@
 - **A calculator built in**: `120 + 15%`, `250 × 3`, `1200 ÷ 4`, typed on the keypad or the keyboard. The keypad can be hidden.
 - **Rate history**: 7 days to 5 years, with minimum, maximum and average, for every pair.
 - **Your own rates**: the rate your bank or exchange office gave you, compared with the market one.
-- **Menu bar**: the rate you follow always in sight, plus a quick converter; click a value to copy it.
-- **Widget** for the desktop and Notification Center, with the currencies you choose.
+- **Menu bar**: the rate you follow always in sight, plus a quick converter; click a value to copy it. Right-click the icon for quick actions.
+- **Widget** for the desktop and Notification Center, with the currencies you choose (searchable by code, name or country).
 - **Search** by name, code or country; the currencies you use most come first.
 - **Copy, paste and share** amounts and conversions; light and dark themes; **43 languages**.
 
@@ -77,6 +77,12 @@ Rates are refreshed every hour (you can choose 1, 6, 12 or 24 hours). Offline, K
 | Macs | Apple silicon and Intel |
 
 ## What's new
+
+**1.0.1**
+- Menu bar: right-click (or Control-click) Kambo's icon for quick actions: copy the rate, see its history, update the rates, open Kambo or Settings, check for updates, quit. A normal click still opens the quick converter.
+- Menu bar: the icon is the same size as the other icons.
+- Widget: each currency has its own field with search (by code, name or country), and the widget starts already filled in (EUR → USD, GBP, CHF, BTC).
+- Widget: currencies are easy to read when editing it, in light and dark mode, and it's listed as "Exchange rates" in the widget gallery.
 
 **1.0.0**
 - First release.

@@ -47,7 +47,7 @@
 
 1. Download the `.dmg` from the [latest release](https://github.com/DevDreamer99/Kambo-Releases/releases/latest).
 2. Open it and drag **Kambo** into **Applications**.
-3. Open Kambo. To add the widget, right-click the desktop › **Edit Widgets** and search for Kambo.
+3. Open Kambo: it lives in the menu bar, top right. To add the widget, right-click the desktop › **Edit Widgets** and search for Kambo.
 
 Kambo checks this page once a day and tells you when a new version is out (you can turn this off in Settings).
 
@@ -77,6 +77,13 @@ Rates are refreshed every hour (you can choose 1, 6, 12 or 24 hours). Offline, K
 | Macs | Apple silicon and Intel |
 
 ## What's new
+
+**1.0.2**
+- Kambo's window opens every time: at launch, when you open Kambo from Applications or Spotlight, from the menu bar and when you click the widget.
+- Settings and the rate history always open in the middle of the screen.
+- The top bar (logo, name, status and buttons) sits on the same line as the window buttons.
+- Like Fanny and Memory Clean, Kambo lives in the menu bar and doesn't take a place in the Dock. Settings › General › Show the icon in the Dock puts it there if you prefer.
+- After an update the widget refreshes by itself: no need to remove it and add it again.
 
 **1.0.1**
 - Menu bar: right-click (or Control-click) Kambo's icon for quick actions: copy the rate, see its history, update the rates, open Kambo or Settings, check for updates, quit. A normal click still opens the quick converter.

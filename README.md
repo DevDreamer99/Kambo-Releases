@@ -78,6 +78,9 @@ Rates are refreshed every hour (you can choose 1, 6, 12 or 24 hours). Offline, K
 
 ## What's new
 
+**1.0.3**
+- The Mac keyboard always works in Kambo's window, with or without the keypad, even after clicking a currency: numbers, , and . for decimals, + − × ÷ (also * / x :), % and = or Return for the result, Delete to erase, Esc or C to clear, ↑ ↓ to change currency, S to swap.
+
 **1.0.2**
 - Kambo's window opens every time: at launch, when you open Kambo from Applications or Spotlight, from the menu bar and when you click the widget.
 - Settings and the rate history always open in the middle of the screen.

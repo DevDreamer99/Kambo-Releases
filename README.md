@@ -49,7 +49,7 @@
 2. Open it and drag **Kambo** into **Applications**.
 3. Open Kambo: it lives in the menu bar, top right. To add the widget, right-click the desktop › **Edit Widgets** and search for Kambo.
 
-Kambo checks this page once a day and tells you when a new version is out (you can turn this off in Settings).
+Kambo checks this page once a day and installs new versions in one click, after checking that they're signed by its developer and notarized by Apple (you can turn the check off in Settings).
 
 ## Where the rates come from
 
@@ -77,6 +77,10 @@ Rates are refreshed every hour (you can choose 1, 6, 12 or 24 hours). Offline, K
 | Macs | Apple silicon and Intel |
 
 ## What's new
+
+**1.0.5**
+- Updates install in one click, as in Fanny: "Install Update" downloads the new version, checks that it's signed by Kambo's developer and notarized by Apple, replaces the old one and reopens Kambo. Kambo itself stays in the macOS sandbox; the install is done by a small component inside Kambo that only Kambo can use.
+- When your Mac starts, Kambo opens in the background, in the menu bar only; its window opens when you open Kambo yourself.
 
 **1.0.3**
 - The Mac keyboard always works in Kambo's window, with or without the keypad, even after clicking a currency: numbers, , and . for decimals, + − × ÷ (also * / x :), % and = or Return for the result, Delete to erase, Esc or C to clear, ↑ ↓ to change currency, S to swap.

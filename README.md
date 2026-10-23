@@ -78,6 +78,10 @@ Rates are refreshed every hour (you can choose 1, 6, 12 or 24 hours). Offline, K
 
 ## What's new
 
+**1.0.6**
+- The widget refreshes every 15 minutes instead of every hour, so crypto prices stay current (currencies change once a day at the source).
+- While Kambo is running, the widget shows the new rates as soon as Kambo downloads them.
+
 **1.0.5**
 - Updates install in one click, as in Fanny: "Install Update" downloads the new version, checks that it's signed by Kambo's developer and notarized by Apple, replaces the old one and reopens Kambo. Kambo itself stays in the macOS sandbox; the install is done by a small component inside Kambo that only Kambo can use.
 - When your Mac starts, Kambo opens in the background, in the menu bar only; its window opens when you open Kambo yourself.

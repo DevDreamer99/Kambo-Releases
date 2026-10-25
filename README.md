@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="assets/icon.png" width="128" height="128" alt="Kambo icon">
+  <img src="assets/cover.jpg" alt="Kambo: every currency, in an instant">
 </p>
-
-<h1 align="center">Kambo</h1>
 
 <p align="center">
   Every currency, converted as you type. Crypto included.<br>
